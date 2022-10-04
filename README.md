@@ -32,7 +32,7 @@
 1. Packet Tracer 8.1.1
 2. [Шаблон топологии](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology.pkt)
 2. [Таблица распределения подсетей и адресов](https://github.com/netology-code/ntw-diplom/blob/main/ip-address-table.xlsx)
-2. Понимание протоколов маршрутизации eBGP, OSPF, route redistribute.
+2. Понимание протоколов маршрутизации eBGP, OSPF.
 2. Понимание предсказуемного поведения протоколов RSTP, HSRP, LAG.
 3. Знание протоколов безопасного подключения к уровню доступа (vlan, trunk, portfast, bpduguard, dhcp-snooping)
 4. Умение настраивать туннельный протокол GRE.
