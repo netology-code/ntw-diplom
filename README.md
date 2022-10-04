@@ -61,7 +61,7 @@
   ![image](https://user-images.githubusercontent.com/5977962/192258720-b8f713d3-e42a-4af4-87ed-36efc8629c71.png)
 
 4) На коммутаторах ядра требуется настроить vlan, LAG, RSTP, SVI,dhcp и HSRP для всех vlan. На этом шаге проверяем работу stp, lag. 
-![image](https://user-images.githubusercontent.com/5977962/193321342-69a3add4-cefd-43b0-a4b8-c0fd8c219beb.png)
+![image](https://user-images.githubusercontent.com/5977962/193780747-d0c64050-94db-499c-8d9e-9f3b7a06f5de.png)
 
 ![image](https://user-images.githubusercontent.com/5977962/192258850-47edbb83-3118-4f1b-b735-dd280b103df6.png)
 
