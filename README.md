@@ -49,7 +49,7 @@
 ------
 
 ### Этапы выполнения проекта
-1) Соберите топологию сети в Cisco Packet tracer. Модели сетевого оборудования: border-router - 1941, fw - ASA 5506-x, ядро - 3560-24, доступ - 2960-24, wlan - WLC-2504, 3702i AP, internet - switch 3650, VOIP-server - router 2811, ip-phone 7960.
+1) Соберите топологию сети в Cisco Packet tracer. Модели сетевого оборудования: border-router - 1941, fw - ASA 5506-x, ядро - 3560-24, доступ - 2960-24, wlan - WLC-2504, 3702i AP, internet - switch 3650, VOIP-server - router 2811, ip-phone 7960. Используйте за основу шаблон топологии, в котором уже есть оборудование, настройки которого изменять нельзя.
 
 ![image](https://user-images.githubusercontent.com/5977962/192236499-941224d0-4694-4c74-8cb1-95a068e99fda.png)
 
