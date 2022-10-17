@@ -45,11 +45,9 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. Packet Tracer 8.1.1
-2. [Шаблон топологии](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology.pkt)
-
-   [Шаблон топологии](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology_8.2.pkt)
+2. [Шаблон топологии PT 8.2](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology_8.2.pkt)
    
-   [Шаблон топологии](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology_8.0.0.pkt)
+   [Шаблон топологии PT 8.0.0](https://github.com/netology-code/ntw-diplom/blob/main/ntw_topology_8.0.0.pkt)
 3. [Таблица распределения подсетей и адресов](https://github.com/netology-code/ntw-diplom/blob/main/ip-address-table.xlsx)
 ------
 
