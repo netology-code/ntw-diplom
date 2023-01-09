@@ -92,7 +92,7 @@
      * LAG, 
      * RSTP, 
      * SVI,
-     * dhcp 
+     * dhcp-relay 
      * HSRP для всех vlan.  
   
    На этом шаге проверьте работу stp, lag. 
