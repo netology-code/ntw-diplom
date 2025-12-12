@@ -73,7 +73,7 @@
 
       ![image](https://user-images.githubusercontent.com/5977962/192236499-941224d0-4694-4c74-8cb1-95a068e99fda.png)
 
-2) Заполните [таблицу распределения подсетей и адресов](https://github.com/netology-code/ntw-diplom/blob/main/ip-address-table.xlsx) (по примеру коммутатора "internet"). 
+2) Заполните [таблицу распределения подсетей и адресов](ip-address-table.xlsx) (по примеру коммутатора "internet"). 
 
       Нужно учёсть возможность добавления пяти новых коммутаторов доступа в ЦО, и открытия трёх новых филиалов:
 
